@@ -1,0 +1,1 @@
+Este repositorio está destinado a la resolución de las distintas actividades de la materia "Frontend y Maquetado Web" de la "Diplomatura en programación web", todo su contenido corresponde a las mismas.
