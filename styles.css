@@ -1,3 +1,70 @@
 body{
     background-color: rgb(221, 146, 241);
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+
+
+
+h1, h2, h3, h4, h5, h6{
+    font-weight: normal;
+}
+
+
+
+
+p{
+    text-align: justify;
+    font-weight: 200%;
+
+}
+
+
+
+
+nav{
+    position: fixed;
+    top: 10px;
+}
+nav ul{
+
+    float: left;
+}
+nav li{
+    display: inline;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+
+
+
+.posts{
+    display: inline;
+}
+.posts article{
+    width: 50vw;
+    padding: 0 1vw;
+    box-sizing: border-box;
+}
+.posts article, footer section:first-child{
+    border: 2px dotted #CCCCCC;
+
+}
+
+
+
+
+form{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+form input:hover, form textarea:hover{
+    background-color: green;
 }
